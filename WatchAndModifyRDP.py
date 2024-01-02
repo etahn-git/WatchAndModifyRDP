@@ -13,7 +13,6 @@ import threading
 
 def quit_action(icon, item):
     icon.stop()
-    # Additional cleanup or exit actions can be added here
 
 
 def watch_downloads_folder():
