@@ -8,7 +8,8 @@ WatchAndModifyRDP is made for single sign-on(SSO) gateways, that give you a shor
 <b>If you dont wanna use this program these are the steps to change it manually:</b>
 - Download the .rdp file from your gateway
 - Open the .rdp file with a text editor
-- Find the line that says 'use multimon:i:0' and change the 0 to a 1 so you have 'use multimon:i:1'
+- Find the line that says 
+```use multimon:i:0``` and change the 0 to a 1 so you have ```use multimon:i:1```
 - Save the file and launch the .rdp file again.
 
 Download the latest release/installer here: https://github.com/etahn-git/WatchAndModifyRDP/releases/tag/v1.0 or in the source code there is a exe file, you can just download it and run that exe, you shouldnt need python installed to use it.
