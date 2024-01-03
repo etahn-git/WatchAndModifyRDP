@@ -13,5 +13,5 @@ WatchAndModifyRDP is made for single sign-on(SSO) gateways, that give you a shor
 - Save the file and launch the .rdp file again.
 
 ## How to install
-- Dowload the latest installer [here]([url](https://github.com/etahn-git/WatchAndModifyRDP/releases/download/v1.0/WatchAndModifyRDP.Installer.exe))(Chrome and Windows Defender may flag it as suspicious because of the way the python code is compiled into an exe)
+- Dowload the latest installer [here](https://github.com/etahn-git/WatchAndModifyRDP/releases/download/v1.0/WatchAndModifyRDP.Installer.exe) (Chrome and Windows Defender may flag it as suspicious because of the way the python code is compiled into an exe, heres the [VirusTotal results](https://www.virustotal.com/gui/url/c47b5e6a2b039db4055c38553bacfb2d61b41b340366168226245685e4b20b74/detection))
 - Finish installing it and then it should be running in your system tray if it is, your good to go if its not in your system tray just search for it in your start menu.
